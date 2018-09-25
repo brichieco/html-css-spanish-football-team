@@ -1,0 +1,46 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top:5%;
+  background-color: #ffffe0;
+}
+p{
+  font-family: 'Crimson Text', serif;
+}
+img{
+  display:block;
+  margin:auto;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+h2{
+  font-weight: bold;
+  font-size: 32px;
+  background-color:#ae0000;
+  color: white;
+  padding-left: 20px;
+  height: 43px;
+  text-align: center;
+}
+.better-together{
+  display:inline;
+  width:40%;
+  float:left;
+  padding:auto;
+  margin-left: 2.5%
+}
+#justify{
+text-align:left;
+}
+.active{
+  font-weight: 900;
+}
+.inactive{
+  font-style: italic;
+}
+.goals{
+  font-decoration: none;
+}
